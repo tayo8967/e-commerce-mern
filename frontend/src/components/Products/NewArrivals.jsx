@@ -13,7 +13,7 @@ const NewArrivals = () => {
     const newArrivals = [
         {
             _id: "1",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
@@ -24,7 +24,7 @@ const NewArrivals = () => {
         },
         {
             _id: "2",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
@@ -35,7 +35,7 @@ const NewArrivals = () => {
         },
         {
             _id: "3",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
@@ -46,7 +46,7 @@ const NewArrivals = () => {
         },
         {
             _id: "4",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
@@ -57,7 +57,7 @@ const NewArrivals = () => {
         },
         {
             _id: "5",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
@@ -68,7 +68,7 @@ const NewArrivals = () => {
         },
         {
             _id: "6",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
@@ -79,7 +79,7 @@ const NewArrivals = () => {
         },
         {
             _id: "7",
-            name: "Stylish Jacker",
+            name: "Stylish Jacket",
             price: 120,
             images: [
                 {
