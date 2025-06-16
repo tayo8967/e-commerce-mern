@@ -57,7 +57,7 @@ const MyOrdersPage = () => {
                             <th className="py-2 px-4 sm:py-3">Status</th>
                         </tr>
                     </thead>
-                    <tbody className="">
+                    <tbody>
                         {orders.length > 0 ? (
                             orders.map((order) => (
                                 <tr
